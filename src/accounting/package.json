@@ -1,0 +1,15 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js rewrite of the COBOL Account Management System",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "license": "MIT"
+}
